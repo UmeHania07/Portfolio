@@ -221,7 +221,7 @@ export default function App() {
             Connect With Me
           </a>
           <a
-            href="/UmeHani resume.pdf"
+            href="/UmeHania resume.pdf"
             target="_blank"
             className="w-full sm:w-auto justify-center px-6 py-3 rounded-xl border border-slate-700 bg-slate-900/50 hover:bg-slate-800 transition-colors font-medium text-sm flex items-center gap-1 text-slate-300 hover:text-white"
           >
