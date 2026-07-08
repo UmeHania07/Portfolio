@@ -61,7 +61,7 @@ export default function App() {
             className="text-2xl font-bold bg-gradient-to-r from-neonPurp to-neonBlue bg-clip-text text-transparent cursor-pointer font-mono z-50 select-none"
           >
             <span className="text-slate-600 font-light">&lt;</span>
-            UmeHani
+            UmeHania
             <span className="text-neonBlue font-semibold">/</span>
             <span className="text-slate-600 font-light">&gt;</span>
           </motion.h1>
@@ -170,7 +170,7 @@ export default function App() {
           <div className="absolute inset-0 bg-gradient-to-r from-neonPurp to-neonBlue rounded-full blur-md opacity-70 animate-pulse scale-135"></div>
           <img
             src={codegirl}
-            alt="UmeHani Profile"
+            alt="UmeHania Profile"
             className="relative w-full h-full object-cover rounded-full border-2 border-slate-700 p-1 bg-slate-900 scale-125 transition-transform"
           />
         </motion.div>
@@ -190,7 +190,7 @@ export default function App() {
           className="text-3xl sm:text-4xl md:text-6xl font-extrabold mt-6 tracking-tight leading-tight"
         >
           <span className="bg-gradient-to-r from-neonPurp via-fuchsia-500 to-neonBlue bg-clip-text text-transparent">
-            I'm UmeHani,
+            I'm UmeHania,
           </span><br />
           Mern Stack developer based in Pakistan.
         </motion.h2>
@@ -419,7 +419,7 @@ export default function App() {
       {/* Footer */}
       <footer className="w-full py-8 border-t border-slate-800/60 text-center text-xs text-slate-500 font-mono">
         <p>
-          © {new Date().getFullYear()} UmeHani. Crafted with passion & MERN Stack.❤️
+          © {new Date().getFullYear()} UmeHania. Crafted with passion & MERN Stack.❤️
         </p>
       </footer>
     </div>
